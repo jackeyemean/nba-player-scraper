@@ -1,0 +1,1 @@
+Install dependencies and run python scraper.py for player averages for all NBA seasons.
